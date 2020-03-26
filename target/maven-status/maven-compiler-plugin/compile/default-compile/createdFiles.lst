@@ -1,0 +1,4 @@
+logic\dao\UserDao.class
+logic\service\UserService.class
+logic\controller\UserController.class
+logic\model\User.class
